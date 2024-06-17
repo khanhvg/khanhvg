@@ -1,5 +1,4 @@
-# 🤖 AI/ML Tinkerer | 🛠️ Data Enthusiast
-Hey there! I'm Khanh Vu, a data engineer by day and an AI/ML tinkerer by night. When I'm not optimizing pipelines or tweaking algorithms, you might find me debugging my life choices or building something quirky.
+# Hey there! I'm Khanh Vu, a data engineer by day and an AI/ML tinkerer by night. When I'm not optimizing pipelines or tweaking algorithms, you might find me debugging my life choices or building something quirky.
 
 ## 🔍 What I Do:
 
