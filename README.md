@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🤖 AI/ML Tinkerer | 🛠️ Data Enthusiast
+Hey there! I'm Khanh Vu, a data engineer by day and an AI/ML tinkerer by night. When I'm not optimizing pipelines or tweaking algorithms, you might find me debugging my life choices or building something quirky.
 
-<!--
-**khanhvg/khanhvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔍 What I Do:
 
-Here are some ideas to get you started:
+Engineer data pipelines that flow smoother than my morning coffee ☕
+Tinker with AI/ML models to make them think they're smarter than me 🤖
+Transform messy data into masterpieces 🎨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Work Experience:
+
+Data Engineer at eCloudValley: Crafting ETL magic and conquering big data dragons 🐉
+AI/ML R&D: Pioneering AI solutions and making machines a bit more human-friendly 🤝
+
+## 🛠️ Skills:
+
+Python 🐍, SQL 📊
+Big Data (Spark) 🌐
+Machine Learning (PyTorch) 🤖
+
+## 🌟 Facts:
+
+I'm try to be masterpiece in badminton 🏸
+I'm a food enthusiast 🍱
+I love my wife 🫶🏼
